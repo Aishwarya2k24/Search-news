@@ -1,0 +1,24 @@
+*{
+    padding: 0px;;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    position: center;
+}
+nav
+{
+    background-color: brown;
+    box-shadow: 0  7px  10px   rgb(31, 42, 31);
+}
+.navbar
+{
+    display: flex;
+    position: right;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+    
+
+
+}
